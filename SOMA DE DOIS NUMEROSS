@@ -1,9 +1,0 @@
-import hashlib
-
-# ----------------------------
-# 1) Soma de dois números (sem input, versão demo)
-# ----------------------------
-def somar_numeros():
-    num1 = 10
-    num2 = 5
-    print(f"A soma de {num1} + {num2} é: {num1 + num2}")
